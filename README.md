@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/prodzhang-localnetwork-badge.jpg)](https://mseep.ai/app/prodzhang-localnetwork)
+
 # 局域网文件托管服务 MCP
 
 [![smithery badge](https://smithery.ai/badge/@prodzhang/localnetwork)](https://smithery.ai/server/@prodzhang/localnetwork)
